@@ -2,6 +2,7 @@ import re
 from sympy import solve, Symbol
 from time import sleep
 
+# made in Portuguese
 
 def resolver(txt):
     """
